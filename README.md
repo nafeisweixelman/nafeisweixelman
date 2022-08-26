@@ -1,10 +1,10 @@
 ### Hi there! 👋 My name is Nafeis Weixelman
 
-*  Computer Engineering Graduate\
-*  My coding background started in High School with learning C++.\
-*  Since then, my love of computer science has expanded.\
-*  I began to learn C, C#, HTML, Python, and even Verilog HDL \
 *  I'm located in San Diego, CA \
+*  San Diego State, Computer Engineering Graduate\
+*  My coding background started in High School with learning C++\
+*  Since then, my love of computer science has expanded\
+*  I grew and began to learn C, C#, HTML, Python, and even Verilog HDL \
 *  Check out a cool project at [Solar Powerered Race Car](http://solarpoweredrc.myportfolio.com)
 
 ### Tech Skills
